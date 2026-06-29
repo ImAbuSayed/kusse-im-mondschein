@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/kusse-im-mondschein/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Küsse im Mondschein](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kusse-im-mondschein/) |
+| **Get License** | [Get a Licensing Quote for Küsse im Mondschein](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kusse-im-mondschein/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `85cd303c963aac24df86204cbc3eae70423ab3df2d939f0f91aaada184ae4776` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
