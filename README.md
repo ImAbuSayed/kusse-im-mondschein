@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/kusse-im-mondschein/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Küsse im Mondschein](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kusse-im-mondschein/) |
+| **Get License** | [Secure Licensing Rights for Küsse im Mondschein](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kusse-im-mondschein/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dein Blick trifft meinen, Küsse im Mondschein, Babe
+> Fahr' durch die City, du und ich, the perfect escape
+> Der Bass ist heavy, doch mein Herz schlägt nur für dich
+> Lass uns verschwinden in der Nacht, nur du und ich
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
